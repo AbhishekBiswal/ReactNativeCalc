@@ -1,0 +1,1 @@
+import Dictionary from './src/Calc.js';
